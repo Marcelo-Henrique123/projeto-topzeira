@@ -72,3 +72,4 @@ print("Tempo médio de promoção", promoção, " anos")
 print("código do funcionário:", codigo_aleatorio)
 print("Antecedentes Criminais:", ficha_criminal)
 print("Avaliação: ", avaliação)
+#oi
